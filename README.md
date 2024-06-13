@@ -1,12 +1,5 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
@@ -17,7 +10,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+
 
 ## Step 4: Add branch protections
 
@@ -28,6 +21,7 @@ Take a look at the merge box, you'll notice you can merge this even though the r
 Protected branches ensure that collaborators on your repository cannot make irrevocable changes to branches. Enabling protected branches also allows you to enable other optional checks and requirements, like required status checks and required reviews.
 
 ### :keyboard: Activity: Add branch protections
+
 
 1. Go to **Branches** settings. You can navigate to that page manually by selecting the right-most tab in the top of the repository called **Settings** and then clicking **Branches**.
 1. Click **Add branch protection rule** under "Branch protection rules".
@@ -41,12 +35,6 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
